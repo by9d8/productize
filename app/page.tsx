@@ -9,7 +9,7 @@ const HeroText = {
 	description:
 		'This is an example description for the Next.js template by @brijr and @youngbloodcyb.',
 	buttonText: 'Get Stated',
-	buttonLink: '#start',
+	buttonLink: '#',
 	featureImage: Placeholder
 };
 
