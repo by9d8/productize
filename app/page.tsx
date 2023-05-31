@@ -5,10 +5,11 @@ import Placeholder from '@/public/placeholder.jpg';
 
 const HeroText = {
 	logo: Logo,
-	title: 'Hello World',
-	description: 'This is a description',
-	buttonText: 'Click me',
-	buttonLink: '/about',
+	title: 'Subscription Based Service of the Future',
+	description:
+		'This is an example description for the Next.js template by @brijr and @youngbloodcyb.',
+	buttonText: 'Get Stated',
+	buttonLink: '#start',
 	featureImage: Placeholder
 };
 
