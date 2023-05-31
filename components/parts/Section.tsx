@@ -3,5 +3,5 @@ type SectionProps = {
 };
 
 export default function Section({ children }: SectionProps) {
-	return <section className="md:p-12 p-6 w-full">{children}</section>;
+	return <section className="w-full max-w-screen-xl m-auto">{children}</section>;
 }

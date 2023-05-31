@@ -14,7 +14,7 @@ type HeroProps = {
 const Hero = ({ title, description, buttonText, buttonLink, featureImage, logo }: HeroProps) => {
 	return (
 		<Section>
-			<div className="container flex gap-8 md:gap-16 max-w-screen-xl m-auto p-12 bg-slate-200 rounded-xl">
+			<div className="container flex gap-8 md:gap-16 m-auto p-12 bg-slate-200 rounded-xl">
 				<div className="flex flex-col md:w-1/2 justify-between">
 					<Image className="hero__logo" width={175} src={logo} alt="logo" />
 					<div className="flex flex-col gap-8">
