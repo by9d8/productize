@@ -13,6 +13,18 @@ const HeroText = {
 	featureImage: Placeholder
 };
 
+const ThreeColumnText = {
+	iconOne: '',
+	titleOne: 'Example Title One',
+	descriptionOne: 'Lorem Ipsum Dollar Sit Amet, this is an example.',
+	iconTwo: '',
+	titleTwo: 'Example Title Two',
+	descriptionTwo: 'Lorem Ipsum Dollar Sit Amet, this is an example.',
+	iconThree: '',
+	titleThree: 'Example Title Three',
+	descriptionThree: 'Lorem Ipsum Dollar Sit Amet, this is an example.'
+};
+
 export default function Home() {
 	return (
 		<main>
